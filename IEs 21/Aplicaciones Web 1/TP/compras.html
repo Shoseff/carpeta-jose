@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+    <title>Compras</title>
+</head>
+<body>
+    <div class="main">
+        <div class="inicio">
+            <h1> <a href="index.html" class="logo"> Vinoteca Sonardo </a></h1>
+            <div>
+                <ul class="inicio-ul">
+                    <li class="inicio-li"> <a href="contacto.html"> Contacto </a> </li>
+                    <li class="inicio-li"> <a href="compras.html"> Comprar </a> </li>
+                    <li class="inicio-li"> <a href="proveedores.html"> Proveedores </a> </li>
+                </ul>
+            </div>
+        </div>
+        <div class="fondoBebidas">
+            <form action="" name="datos" class="borde">
+                <fieldset class="tipoBebida">
+                    <legend> Tipo de bebida </legend>
+                    <input type="radio" name="opt" value="" checked onclick="Vinos()"> Vino
+                    <input type="radio" name="opt" value="" onclick="Espumantes()"> Espumante
+                    <input type="radio" name="opt" value="" onclick="Cervezas()"> Cervezas
+                </fieldset>
+                <div class="textoBebida">
+                    <br> Producto
+                    <select name="" id="lstProd" class="selectProducto">
+                        <option value="0"> ---------------- </option>
+                        <option value="1">  </option>
+                        <option value="2">  </option>
+                    </select>
+                    <br>
+                    <label for=""> Cantidad </label>
+                    <input type="text" id="txtCant" value="" onkeypress="return numeros(event)" class="cantidad">
+                    <br>
+                    <input type="button" value="Calcular" onclick="calcular()" class="botonardo">
+                </div>
+        </div>
+    </div>
+    </form>
+    <div class="fotuli">
+        <img src="assets/comprar.jpg" alt="" width="800" height="400">
+    </div>
+
+    <script lang="javascript">
+        vinos = ["Fontodi Flaccianello Della Pieve","Cafayate Reserver Syrah","Luigi Bosca de Sangre Red Blend"];
+        espumantes = ["Alambrado Blanc de Blancs 750","Alambrado Pinot Rose 750","Alma 4 Crudo Semillon 750"];
+        cervezas = ["Anchor & Brewin California Lata 335cc","Anchor & Brewing Liberty Ale Lata 335cc","Ocaso Tiramisu Porter 4.8% 473 Lata"];
+
+        pV = ["1516","1140","9252"];
+        pE = ["826","826","1194"];
+        pC = ["279","279","198"];
+
+        function Vinos()
+        {
+            for(i=0;i<=2;i++)
+            {
+                document.getElementById("lstProd").options[i].text=vinos[i];
+                document.getElementById("lstProd").options[i].value=pV[i];
+            }
+        }
+
+        function Espumantes()
+        {
+            i=0;
+            while(i<=2)
+            {
+            document.getElementById("lstProd").options[i].text=espumantes[i];
+            document.getElementById("lstProd").options[i].value=pE[i];
+            i++;
+            }
+        }
+
+        function Cervezas()
+        {
+            i=0;
+            do
+            {
+                document.getElementById("lstProd").options[i].text=cervezas[i];
+                document.getElementById("lstProd").options[i].value=pC[i];
+                i++;
+            } while(i<=2);
+        }
+
+        function calcular()
+        {
+            precio = document.getElementById("lstProd").value;
+            cantidad = document.getElementById("txtCant").value;
+            total = precio * cantidad;
+            alert("El total es de: " + total);
+        }
+
+        function numeros(e)
+        {
+            if(window.event)
+                t = e.keyCode;
+            else
+                t = e.which;
+            if(t>=48 && t<=57)
+                return true;
+            else
+                return false;
+        }
+    </script>
+</body>
+</html>

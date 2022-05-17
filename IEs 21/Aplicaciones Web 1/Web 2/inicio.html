@@ -1,0 +1,52 @@
+<html>
+    <head>
+
+        <title> Pagina con Menu </title>
+
+        <link rel="stylesheet" href="estilo.css" type="text/css">
+
+        <script lang="Javascript">
+            function saludo()
+            {
+                nom=datos.txtNom.value;
+                alert("Bienvenido: " + nom);
+            }
+        </script>
+
+    </head>
+
+    <body>
+
+        <div class="borde">
+
+            <h1> SEGUROS </h1>
+
+            <div style="display: flex; justify-content: space-around;">
+
+                <a href="inicio.html" >Principal</a>
+
+                <a href="autos.html" >Autos</a>
+
+            </div>
+
+        </div>
+
+        <div class="borde2">
+
+            <img src="csgos1mple.jpg" height="200" width="200" onmouseover="this.src='descarga.gif'" onmouseout="this.src='csgos1mple.jpg'">
+
+        </div>
+
+        <div class="borde2">
+            <form name="datos" action="">
+
+                Nombre
+                <input type="text" value="" name="txtNom">
+                <br>
+                <input type="button" value="Aceptar" name="" id="" onclick="saludo()">
+
+
+            </form>
+        </div>
+    </body>
+</html>

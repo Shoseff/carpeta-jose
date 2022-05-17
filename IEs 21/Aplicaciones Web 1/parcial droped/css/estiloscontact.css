@@ -1,0 +1,406 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  width: 1203;
+}
+body {
+  background: #2b2b2b;
+  font-family: verdana;
+}
+
+header {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.img1 {
+  width: 1200px;
+  height: 376.5px;
+}
+.conteiner {
+  width: 1200px;
+  height: 120px;
+  background: black;
+  margin: 10px auto 0px auto;
+}
+
+.menu {
+  float: left;
+  margin: -2px;
+  padding: 16px;
+  width: 1171px;
+  background-color: black;
+}
+.opciones li {
+  float: left;
+  list-style: none;
+}
+.opciones li a {
+  text-align: right;
+  color: rgb(255, 255, 255);
+  padding: 15px;
+  text-decoration: none;
+  font-family: 1px;
+  border-right: 2px solid grey;
+  background-color: black;
+}
+
+.opciones li a:hover {
+  color: rgb(255, 0, 0);
+  border-top: 2px solid rgb(255, 0, 0);
+}
+
+.descrip li {
+  font-size: 14px;
+  float: left;
+  list-style: none;
+  text-align: right;
+  color: grey;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+.container-contenido {
+  width: 1195px;
+  margin: 306px auto 0px auto;
+  height: 1040px;
+  background: rgb(63, 40, 40);
+  border: 3px ridge grey;
+}
+
+.borde-contenido {
+  width: 1175px;
+  height: 1040px;
+  margin: auto 10px;
+  background: rgb(124, 48, 48);
+  display: flex;
+}
+
+.icon2 {
+  font-size: 23px;
+  padding: 44px 44px 14px 44px;
+  vertical-align: middle;
+  color: aliceblue;
+  vertical-align: middle;
+}
+
+.icono2 {
+  width: 25px;
+}
+
+.eventos {
+  width: 250px;
+  height: 870px;
+  text-align: center;
+  margin-left: 50px;
+}
+
+.cuadro-eventos {
+  background-color: rgba(66, 19, 19, 0.493);
+  height: 450px;
+  width: 215px;
+}
+
+.fecha-eventos {
+  background-color: rgba(124, 69, 69, 0.493);
+  margin-left: 40px;
+  margin-right: 40px;
+  color: wheat;
+}
+
+.texto-eventos {
+  color: white;
+  text-align: center;
+  margin-top: 15px;
+  margin-left: 33px;
+  margin-right: 33px;
+  margin-bottom: 10px;
+  line-height: 25px;
+  font-size: 14px;
+}
+
+.cuadro-glosario {
+  background-color: rgba(66, 19, 19, 0.493);
+  height: 455px;
+  margin-top: 10px;
+  width: 215px;
+}
+
+.icon3 {
+  font-size: 23px;
+  padding: 22px 44px 14px 44px;
+  vertical-align: middle;
+  color: aliceblue;
+}
+
+.icono3 {
+  width: 25px;
+}
+
+.texto-glosario {
+  color: white;
+  text-align: left;
+  margin-top: 15px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 20px;
+  line-height: 20px;
+  font-size: 15px;
+}
+
+.footer {
+  height: 200px;
+  width: 1203px;
+  background: rgb(37, 33, 41);
+  margin: auto;
+}
+
+.menuabajo {
+  float: left;
+  margin-top: 20px;
+  padding: 16px;
+  width: 1171px;
+  background-color: rgb(37, 33, 41);
+  height: 12px;
+}
+.opcioness li {
+  float: left;
+  list-style: none;
+}
+.opcioness li a {
+  text-align: right;
+  color: rgb(255, 255, 255);
+  padding: 0px 10px 0px 10px;
+  text-decoration: none;
+  font-family: 1px;
+  border-right: 1px solid grey;
+  background-color: rgb(37, 33, 41);
+}
+
+.punteado {
+  color: #1f1313;
+  height: 0px;
+  border: 1px dashed;
+  width: 100px;
+  float: middle;
+  margin-left: 55px;
+  box-shadow: black;
+}
+
+.container-contacto {
+  padding: 10px;
+  width: 700px;
+  float: right;
+}
+
+.titulocontacto {
+  font-size: 40px;
+  color: white;
+  margin: 20px 10px 20px 0px;
+}
+
+.direccioncontacto {
+  color: wheat;
+  margin-bottom: 40px;
+}
+
+.telefonocontacto {
+  color: wheat;
+  margin-bottom: 5px;
+}
+
+.faxcontacto {
+  color: wheat;
+  margin-bottom: 40px;
+}
+
+.horariocontacto {
+  color: wheat;
+  margin-bottom: 5px;
+}
+
+.emailcontacto {
+  color: wheat;
+  margin-bottom: 20px;
+}
+
+.campostitulo {
+  color: white;
+  font-size: 20px;
+}
+
+.destinatario {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.titulodestinatario {
+  font-size: 14px;
+  margin-top: 30px;
+  margin-right: 81px;
+  color: white;
+}
+
+.ancho {
+  width: 300px;
+}
+
+.nombreapellido {
+  margin-bottom: 15px;
+  color: white;
+}
+
+.titulonombreapellido {
+  font-size: 14px;
+  margin-top: 30px;
+  margin-right: 42px;
+  color: white;
+}
+
+.ancho2 {
+  width: 296px;
+}
+
+.razonsocial {
+  margin-bottom: 15px;
+  color: white;
+}
+.nombrerazonsocial {
+  margin-bottom: 15px;
+}
+
+.titulorazonsocial {
+  font-size: 14px;
+  margin-top: 30px;
+  margin-right: 77px;
+  color: white;
+}
+
+.emaildestinatario {
+  margin-bottom: 15px;
+  color: white;
+}
+
+.tituloemail {
+  font-size: 14px;
+  margin-top: 30px;
+  margin-right: 130px;
+  color: white;
+}
+
+.telefonodestinatario {
+  margin-bottom: 15px;
+  color: white;
+}
+
+.titulotelefono {
+  font-size: 14px;
+  margin-top: 30px;
+  margin-right: 108px;
+  color: white;
+}
+
+.titulocelular {
+  font-size: 14px;
+  margin-top: 30px;
+  margin-right: 119px;
+  color: white;
+}
+
+.celular {
+  margin-bottom: 15px;
+  color: white;
+}
+
+.titulotelefono {
+  font-size: 14px;
+  margin-top: 30px;
+  margin-right: 108px;
+  color: white;
+}
+
+.viascontacto {
+  margin-bottom: 15px;
+}
+
+.ancho3 {
+  width: 380px;
+  height: 260px;
+}
+.tituloviascontacto {
+  font-size: 14px;
+  margin-right: 50px;
+  color: white;
+}
+
+.comentarios {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+.titulocomentarios {
+  font-size: 14px;
+  margin-top: 30px;
+  margin-right: 81px;
+  color: white;
+  vertical-align: top;
+}
+
+.botoncito {
+  padding-left: 350px;
+}
+
+.boton {
+  background-color: red;
+  border-radius: 1px;
+  margin-right: 15px;
+  margin-bottom: 1px;
+  font-size: 20px;
+  color: white;
+  padding: 0px 8px;
+  display: flex;
+  outline: 1px solid;
+}
+
+input:invalid {
+  background: rgb(206, 169, 169) no-repeat 98% center;
+}
+
+span.noValido {
+  display: none;
+  position: relative;
+  left: 250px;
+  top: 5px;
+  width: 230px;
+  border: solid 1px red;
+  background-color: rgb(158, 77, 77);
+  padding: 3px;
+  text-align: center;
+}
+span.valido {
+  display: none;
+  position: relative;
+  left: 250px;
+  top: 5px;
+  width: 230px;
+  border: solid 1px green;
+  background-color: lightgreen;
+  padding: 3px;
+  text-align: center;
+}
+input:invalid ~ span.noValido {
+  display: block;
+}
+
+.verde {
+  background-color: lightgreen;
+  width: 300px;
+}
+
+.vacio {
+  background-color: #cea9a9;
+  width: 300px;
+}

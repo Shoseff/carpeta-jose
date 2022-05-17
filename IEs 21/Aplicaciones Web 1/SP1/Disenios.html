@@ -1,0 +1,80 @@
+<html>
+    <head>
+        <title> SP1 </title>
+        <link rel="stylesheet" type="text/css" href="estilos.css">
+        <script lang="Javascript" type="text/javascript">
+            totalGlobal = 0;
+            contadorArticulos;
+            function calculo()
+            {
+                var precio = datos.lstProd.value;
+                var cantidad = datos.txtCant.value;
+                var total = precio * cantidad;
+                totalGlobal = totalGlobal + total;
+                contadorArticulos++;
+                alert("El total es: " + total);
+            }
+            function calculo2()
+            {
+                precio = document.getElementById("lstProd").value;
+                cantidad = document.getElementById("txtCant").value;
+                total = precio * cantidad;
+                totalGlobal = totalGlobal + total;
+                contadorArticulos++;
+                alert("El total es: " + total);
+            }
+            function SoloNros(evt)
+            {
+                if(window.event)
+                    t= evt.keyCode;
+                else
+                    t= evt.wich;
+                if( t>47 && t<58)
+                    return true;
+                else
+                    return false;
+            }
+            function mostrar()
+            {
+                alert("Total a pagar: " + totalGlobal);
+                alert("Cantidad de veces compradas: " + contadorArticulos);
+            }
+        </script>
+    </head>
+    <body>
+        <div>
+            <h1><font size="+5" color="red">G</font>ubbio Disegni </h1>
+            <div id="barra">
+                <ul>
+                    <li>
+                        <a href="index.html"> Home </a>
+                    </li>
+                    <li>
+                        <a href="Consulta.html"> Consulta </a>
+                    </li>
+                    <li>
+                        <a href="Disenios.html"> Disenios </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div>
+            <h3> Diseños </h3>
+            <form action="" name="datos">
+                Producto
+                <select name="lstProd">
+                    <option value="100"> Simple </option>
+                    <option value="200"> Nashe </option>
+                    <option value="300"> Doctor </option>
+                    <option value="400"> Pedazo de nashee </option>
+                </select>
+                <br>
+                Cantidad
+                <input type="text" name="txtCant" value="" onkeypress="return SoloNros(event)">
+                <br>
+                <input type="button" name="" id="" value="Aceptar" onclick="calculo()">
+                <input type="button" value="Fin de la Compra" onclick="mostrar()">
+            </form>
+        </div>
+    </body>
+</html>

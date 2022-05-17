@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+    <script>
+        total = 0
+        cantDocentes = 0
+
+        function mostrarZona(i){
+            switch(i)
+            {
+            case 1: datosP2.zona.src="assets/ax_2.jpg";  break;
+            case 2: datosP2.zona.src="assets/bx_1.jpg";  break;
+            case 3: datosP2.zona.src="assets/cx.png";  break;
+            }
+        }
+
+        function calcular(){
+            estadoCivil=parseInt(datosP.optTipo.value);
+            cantH=parseInt(datosP.txtcantHijos.value);
+            hijos= cantH * 70;
+            sueldo=parseInt(datosP2.lstPuesto.value);
+            zona=parseInt(datosP2.optTipo.value);
+            total=hijos+estadoCivil+sueldo+zona;
+            alert("Sueldo a cobrar :" + total);
+            cantDocentes = cantDocentes + 1;
+        }
+
+        function calcular2() {
+            alert("Cantidad de docentes : " + cantDocentes);
+        }
+
+    </script>
+
+    <title> Municipalidad </title>
+</head>
+<body>
+    <div class="bordes">
+        <h1 class="titulo"> Postulate para el puesto </h1>
+        <form action="" name="datosP">
+            <fieldset><legend> Datos Personales </legend>
+                <table><tr><td  width="300">
+                    <div class="formulario">
+                        <label for=""> Apellido y Nombre</label>
+                        <input type="text" id="txtNombre" value=""><br />
+                        <input type="radio" name="optTipo"   value="70" checked />Casado<br />
+                        <input type="radio" name="optTipo"   value="0" />Soltero<br />
+                        <input type="radio" name="optTipo"  value="0"  />Divorciado<br/>
+                        <label for=""> Cantidad de hijos </label> <br>
+                        <input type="text" name="txtcantHijos" id="txtcantHijos" onKeyPress="return SoloNumeros(event)"/>
+                    </div>
+                  </td>
+                </table>
+            </fieldset><br/>
+        </form>
+        <form action="" name="datosP2">
+            <fieldset>
+            <legend>Datos del Puesto</legend>
+                <table><tr><td width="300">
+                    <div class="formulario">
+                            <select name="" id="lstPuesto">
+                                <option value="15000"> Director </option>
+                                <option value="12000"> Vicedirector </option>
+                                <option value="8000"> Jefe </option>
+                                <option value="6000"> Secretaria </option>
+                            </select>
+                            <br>
+                            <input type="radio" name="optTipo" value="0" checked onclick="mostrarZona(1)"/>Zona A<br />
+                            <input type="radio" name="optTipo"   value="200" onclick="mostrarZona(2)"/>Zona B<br />
+                            <input type="radio" name="optTipo"  value="550"  onclick="mostrarZona(3)"/>Zona C<br />
+                        </td>
+                        <td width="350">
+                            <img src="assets/ax_2.jpg" name="zona" width="100" height="100">
+                        </td>
+                    </div>
+            </table>
+            </fieldset>
+        </form>
+        <input type="button" name="btnCalcular" value="Calcular" id="btnCalcular" onclick="calcular()" class="boton"/>
+        <input type="button" name="btnCalcular" value="Total" id="btnCalcular" onclick="calcular2()" class="boton"/>
+    </div>
+</body>
+</html>

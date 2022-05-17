@@ -1,0 +1,101 @@
+<html>
+    <head>
+        <style>
+            .borde{
+                border-style: ridge;
+                border: thin;
+                width: 700px;
+                margin: auto;
+            }
+        </style>
+        <script lang="javascript">
+            mA = new Array("A","B","C");
+            mB = new Array("1","2","3");
+            mC = new Array("ca","cb","cc");
+
+            pA = new Array("10","20","30");
+            pB = new Array("100","200","300");
+            pC = new Array("110","120","130");
+
+            function marcaA()
+            {
+                for(i=0;i<=2;i++)
+                {
+                    document.getElementById("lstProd").options[i].text=mA[i];
+                    document.getElementById("lstProd").options[i].value=pA[i];
+                }
+            }
+
+            function marcaB()
+            {
+                i=0;
+                while(i<=2)
+                {
+                document.getElementById("lstProd").options[i].text=mB[i];
+                document.getElementById("lstProd").options[i].value=pB[i];
+                i++;
+                }
+            }
+
+            function marcaC()
+            {
+                i=0;
+                do
+                {
+                    document.getElementById("lstProd").options[i].text=mC[i];
+                    document.getElementById("lstProd").options[i].value=pC[i];
+                    i++;
+                } while(i<=2);
+            }
+
+            function calcular()
+            {
+                precio = document.getElementById("lstProd").value;
+                cantidad = document.getElementById("txtCant").value;
+                if(document.getElementById("chkRevista").checked==true)
+                {
+                    total = (precio * cantidad) + parseInt(document.getElementById("chkRevista").value);
+                } else
+                {
+                    total = precio * cantidad;
+                }
+                alert("El total es de: " + total);
+            }
+
+            function numeros(e)
+            {
+                if(window.event)
+                    t = e.keyCode;
+                else
+                    t = e.which;
+                if(t>=48 && t<=57)
+                    return true;
+                else
+                    return false;
+            }
+        </script>
+    </head>
+    <body>
+        <h1> Formulario de consulta </h1>
+        <form action="" name="datos" class="borde">
+            <fieldset>
+                <legend> Marca </legend>
+                <input type="radio" name="opt" value="" checked onclick="marcaA()"> Producto A
+                <input type="radio" name="opt" value="" onclick="marcaB()"> Producto B
+                <input type="radio" name="opt" value="" onclick="marcaC()"> Producto C
+            </fieldset>
+            <br>  Producto
+            <select name="" id="lstProd">
+                <option value="0"> ------- </option>
+                <option value="1">  </option>
+                <option value="2">  </option>
+            </select>
+            <br> Cantidad
+            <input type="text" id="txtCant" value="" onkeypress="return numeros(event)">
+            <br> Revista
+            <input type="checkbox" id="chkRevista" value="200">
+            <br>
+            <input type="button" value="aceptar" onclick="calcular()">
+        </form>
+    </body>
+</html>

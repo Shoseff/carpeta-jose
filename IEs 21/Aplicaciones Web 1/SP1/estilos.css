@@ -1,0 +1,26 @@
+#barra{
+    display: inline-block;
+}
+
+#barra li{
+    list-style: none;
+    float: left;
+    position: relative;
+}
+
+#barra a{
+    font-size: 20px;
+    color: red;
+    display: block;
+    padding: 10px;
+}
+
+#barra a:hover{
+    background: red;
+    color: white;
+}
+
+body{
+    width: 1000px;
+    margin: 100px auto;
+}

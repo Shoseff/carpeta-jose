@@ -1,0 +1,24 @@
+C:\Users\joseb\Desktop\Jose\Proyectos visual studio\Lab de programacion\Lab de programacion\bin\Debug\Lab de programacion.exe.config
+C:\Users\joseb\Desktop\Jose\Proyectos visual studio\Lab de programacion\Lab de programacion\bin\Debug\Lab de programacion.exe
+C:\Users\joseb\Desktop\Jose\Proyectos visual studio\Lab de programacion\Lab de programacion\bin\Debug\Lab de programacion.pdb
+C:\Users\joseb\Desktop\Jose\Proyectos visual studio\Lab de programacion\Lab de programacion\bin\Debug\Lab de programacion.xml
+C:\Users\joseb\Desktop\Jose\Proyectos visual studio\Lab de programacion\Lab de programacion\obj\Debug\Lab de programacion.vbprojAssemblyReference.cache
+C:\Users\joseb\Desktop\Jose\Proyectos visual studio\Lab de programacion\Lab de programacion\obj\Debug\Lab_de_programacion.Form1.resources
+C:\Users\joseb\Desktop\Jose\Proyectos visual studio\Lab de programacion\Lab de programacion\obj\Debug\Lab_de_programacion.Resources.resources
+C:\Users\joseb\Desktop\Jose\Proyectos visual studio\Lab de programacion\Lab de programacion\obj\Debug\Lab de programacion.vbproj.GenerateResource.cache
+C:\Users\joseb\Desktop\Jose\Proyectos visual studio\Lab de programacion\Lab de programacion\obj\Debug\Lab de programacion.vbproj.CoreCompileInputs.cache
+C:\Users\joseb\Desktop\Jose\Proyectos visual studio\Lab de programacion\Lab de programacion\obj\Debug\Lab de programacion.exe
+C:\Users\joseb\Desktop\Jose\Proyectos visual studio\Lab de programacion\Lab de programacion\obj\Debug\Lab de programacion.xml
+C:\Users\joseb\Desktop\Jose\Proyectos visual studio\Lab de programacion\Lab de programacion\obj\Debug\Lab de programacion.pdb
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\Primer parcial\Lab de programacion\bin\Debug\Lab de programacion.exe.config
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\Primer parcial\Lab de programacion\bin\Debug\Lab de programacion.exe
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\Primer parcial\Lab de programacion\bin\Debug\Lab de programacion.pdb
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\Primer parcial\Lab de programacion\bin\Debug\Lab de programacion.xml
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\Primer parcial\Lab de programacion\obj\Debug\Lab de programacion.vbprojAssemblyReference.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\Primer parcial\Lab de programacion\obj\Debug\Lab_de_programacion.Form1.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\Primer parcial\Lab de programacion\obj\Debug\Lab_de_programacion.Resources.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\Primer parcial\Lab de programacion\obj\Debug\Lab de programacion.vbproj.GenerateResource.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\Primer parcial\Lab de programacion\obj\Debug\Lab de programacion.vbproj.CoreCompileInputs.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\Primer parcial\Lab de programacion\obj\Debug\Lab de programacion.exe
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\Primer parcial\Lab de programacion\obj\Debug\Lab de programacion.xml
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\Primer parcial\Lab de programacion\obj\Debug\Lab de programacion.pdb

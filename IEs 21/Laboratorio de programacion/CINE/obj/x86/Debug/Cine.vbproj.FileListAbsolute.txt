@@ -1,0 +1,81 @@
+D:\mec\ies\2011-2\ParcialesModelos\P2PreTnRec\Cine\bin\Debug\Cine.exe
+D:\mec\ies\2011-2\ParcialesModelos\P2PreTnRec\Cine\bin\Debug\Cine.pdb
+D:\mec\ies\2011-2\ParcialesModelos\P2PreTnRec\Cine\bin\Debug\Cine.xml
+D:\mec\ies\2011-2\ParcialesModelos\P2PreTnRec\Cine\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\mec\ies\2011-2\ParcialesModelos\P2PreTnRec\Cine\obj\x86\Debug\Cine.FrmCine.resources
+D:\mec\ies\2011-2\ParcialesModelos\P2PreTnRec\Cine\obj\x86\Debug\Cine.Resources.resources
+D:\mec\ies\2011-2\ParcialesModelos\P2PreTnRec\Cine\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\mec\ies\2011-2\ParcialesModelos\P2PreTnRec\Cine\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\mec\ies\2011-2\ParcialesModelos\P2PreTnRec\Cine\obj\x86\Debug\Cine.exe
+D:\mec\ies\2011-2\ParcialesModelos\P2PreTnRec\Cine\obj\x86\Debug\Cine.xml
+D:\mec\ies\2011-2\ParcialesModelos\P2PreTnRec\Cine\obj\x86\Debug\Cine.pdb
+D:\mec\ies\2012-1\ParcialesModelos\P2AcoCbaPar2\Cine\obj\x86\Debug\Cine.exe
+D:\mec\ies\2012-1\ParcialesModelos\P2AcoCbaPar2\Cine\obj\x86\Debug\Cine.xml
+D:\mec\ies\2012-1\ParcialesModelos\P2AcoCbaPar2\Cine\obj\x86\Debug\Cine.pdb
+D:\mec\ies\2012-2\ParcialesModelos\LP3AcoCbaRec\Cine\obj\x86\Debug\Cine.exe
+D:\mec\ies\2012-2\ParcialesModelos\LP3AcoCbaRec\Cine\obj\x86\Debug\Cine.xml
+D:\mec\ies\2012-2\ParcialesModelos\LP3AcoCbaRec\Cine\obj\x86\Debug\Cine.pdb
+D:\MEC\IES\2013-1\PARCIALES (MODELOS)\LP3PreRec\Cine\obj\x86\Debug\Cine.exe
+D:\MEC\IES\2013-1\PARCIALES (MODELOS)\LP3PreRec\Cine\obj\x86\Debug\Cine.xml
+D:\MEC\IES\2013-1\PARCIALES (MODELOS)\LP3PreRec\Cine\obj\x86\Debug\Cine.pdb
+D:\MEC\IES\2017-1\PARCIALES (MODELOS)\LP3 (PARCIAL 2)\CINE\bin\Debug\Cine.exe.config
+D:\MEC\IES\2017-1\PARCIALES (MODELOS)\LP3 (PARCIAL 2)\CINE\bin\Debug\Cine.exe
+D:\MEC\IES\2017-1\PARCIALES (MODELOS)\LP3 (PARCIAL 2)\CINE\bin\Debug\Cine.pdb
+D:\MEC\IES\2017-1\PARCIALES (MODELOS)\LP3 (PARCIAL 2)\CINE\bin\Debug\Cine.xml
+D:\MEC\IES\2017-1\PARCIALES (MODELOS)\LP3 (PARCIAL 2)\CINE\obj\x86\Debug\Cine.FrmCine.resources
+D:\MEC\IES\2017-1\PARCIALES (MODELOS)\LP3 (PARCIAL 2)\CINE\obj\x86\Debug\Cine.Resources.resources
+D:\MEC\IES\2017-1\PARCIALES (MODELOS)\LP3 (PARCIAL 2)\CINE\obj\x86\Debug\Cine.vbproj.GenerateResource.Cache
+D:\MEC\IES\2017-1\PARCIALES (MODELOS)\LP3 (PARCIAL 2)\CINE\obj\x86\Debug\Cine.exe
+D:\MEC\IES\2017-1\PARCIALES (MODELOS)\LP3 (PARCIAL 2)\CINE\obj\x86\Debug\Cine.xml
+D:\MEC\IES\2017-1\PARCIALES (MODELOS)\LP3 (PARCIAL 2)\CINE\obj\x86\Debug\Cine.pdb
+D:\MIGUEL CARRIZO\HOY\CINE\bin\Debug\Cine.exe.config
+D:\MIGUEL CARRIZO\HOY\CINE\obj\x86\Debug\Cine.exe
+D:\MIGUEL CARRIZO\HOY\CINE\obj\x86\Debug\Cine.xml
+D:\MIGUEL CARRIZO\HOY\CINE\obj\x86\Debug\Cine.pdb
+D:\MIGUEL CARRIZO\HOY\CINE\bin\Debug\Cine.exe
+D:\MIGUEL CARRIZO\HOY\CINE\bin\Debug\Cine.pdb
+D:\MIGUEL CARRIZO\HOY\CINE\bin\Debug\Cine.xml
+D:\MIGUEL CARRIZO\HOY\CINE\obj\x86\Debug\Cine.FrmCine.resources
+D:\MIGUEL CARRIZO\HOY\CINE\obj\x86\Debug\Cine.Resources.resources
+D:\MIGUEL CARRIZO\HOY\CINE\obj\x86\Debug\Cine.vbproj.GenerateResource.Cache
+D:\Alumno\Desktop\CINE\bin\Debug\Cine.exe.config
+D:\Alumno\Desktop\CINE\bin\Debug\Cine.exe
+D:\Alumno\Desktop\CINE\bin\Debug\Cine.pdb
+D:\Alumno\Desktop\CINE\bin\Debug\Cine.xml
+D:\Alumno\Desktop\CINE\obj\x86\Debug\Cine.FrmCine.resources
+D:\Alumno\Desktop\CINE\obj\x86\Debug\Cine.Resources.resources
+D:\Alumno\Desktop\CINE\obj\x86\Debug\Cine.vbproj.GenerateResource.Cache
+D:\Alumno\Desktop\CINE\obj\x86\Debug\Cine.exe
+D:\Alumno\Desktop\CINE\obj\x86\Debug\Cine.xml
+D:\Alumno\Desktop\CINE\obj\x86\Debug\Cine.pdb
+F:\CINE\bin\Debug\Cine.exe.config
+F:\CINE\obj\x86\Debug\Cine.exe
+F:\CINE\obj\x86\Debug\Cine.xml
+F:\CINE\obj\x86\Debug\Cine.pdb
+C:\Users\Nicolas\Desktop\Nueva carpeta (2)\CINE\bin\Debug\Cine.exe.config
+C:\Users\Nicolas\Desktop\Nueva carpeta (2)\CINE\obj\x86\Debug\Cine.exe
+C:\Users\Nicolas\Desktop\Nueva carpeta (2)\CINE\obj\x86\Debug\Cine.xml
+C:\Users\Nicolas\Desktop\Nueva carpeta (2)\CINE\obj\x86\Debug\Cine.pdb
+D:\Pen Drive\CINE\bin\Debug\Cine.exe.config
+D:\Pen Drive\CINE\obj\x86\Debug\Cine.exe
+D:\Pen Drive\CINE\obj\x86\Debug\Cine.xml
+D:\Pen Drive\CINE\obj\x86\Debug\Cine.pdb
+D:\Pen Drive\CINE\bin\Debug\Cine.exe
+D:\Pen Drive\CINE\bin\Debug\Cine.pdb
+D:\Pen Drive\CINE\bin\Debug\Cine.xml
+D:\Pen Drive\CINE\obj\x86\Debug\Cine.FrmCine.resources
+D:\Pen Drive\CINE\obj\x86\Debug\Cine.Resources.resources
+D:\Pen Drive\CINE\obj\x86\Debug\Cine.vbproj.GenerateResource.Cache
+D:\Pen Drive\CINE\obj\x86\Debug\Cine.vbproj.CoreCompileInputs.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\CINE\bin\Debug\Cine.exe.config
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\CINE\bin\Debug\Cine.exe
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\CINE\bin\Debug\Cine.pdb
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\CINE\bin\Debug\Cine.xml
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\CINE\obj\x86\Debug\Cine.vbprojAssemblyReference.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\CINE\obj\x86\Debug\Cine.FrmCine.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\CINE\obj\x86\Debug\Cine.Resources.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\CINE\obj\x86\Debug\Cine.vbproj.GenerateResource.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\CINE\obj\x86\Debug\Cine.vbproj.CoreCompileInputs.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\CINE\obj\x86\Debug\Cine.exe
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\CINE\obj\x86\Debug\Cine.xml
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\CINE\obj\x86\Debug\Cine.pdb

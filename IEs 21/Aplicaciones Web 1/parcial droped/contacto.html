@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Contacto</title>
+    <link rel= "stylesheet" type="text/css" href=css/estiloscontact.css>
+  </head>
+  <body>
+    <div class="conteiner">
+      <header class="superior">
+        <div class="encabezado">
+          <a title="Inicio" href="index.html"
+            ><img class="img1" src="./imagenes/headerinside.jpg" alt=""
+          /></a>
+        </div>
+        <nav class="menu">
+          <ul class="opciones">
+            <li>
+              <a href="">Testimonios</a>
+            </li>
+            <li>
+              <a href="">Soporte</a>
+            </li>
+            <li>
+              <a href="">Soluciones</a>
+            </li>
+            <li>
+              <a href="">Nosotros</a>
+            </li>
+            <li>
+              <a href="">Bodegas</a>
+            </li>
+            <li>
+              <a href="">Productos</a>
+            </li>
+            <li>
+              <a href="">Eventos</a>
+            </li>
+            <li>
+              <a href="">Chat</a>
+            </li>
+            <li>
+              <a href="">Blogs</a>
+            </li>
+            <li>
+              <a href="">Noticias</a>
+            </li>
+            <li>
+              <a href="">Servicios</a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+    </div>
+    <section class="container-contenido">
+      <div class="borde-contenido">
+        <div class="eventos">
+          <div class="cuadro-eventos">
+            <div class="icon2">
+              <img class="icono2" src="./imagenes/event_icon.gif" alt="" />
+              Eventos
+            </div>
+            <div class="fecha-eventos">MAYO 2011</div>
+            <div class="texto-eventos">
+              Se celebra en la Provincia de Mendoza, el primer fin de semana de
+              marzo (casi sin interrupciones desde 1936) y se trata del homenaje
+              que el hombre le dedica a su industria principal: la vitivinicola.
+            </div>
+            <hr class="punteado" />
+          </div>
+          <div class="cuadro-glosario">
+            <div class="icon3">
+              <img class="icono3" src="./imagenes/service.gif" alt="" />
+              Glosario
+            </div>
+
+            <div class="texto-glosario">
+              Enólogo:<br />
+              Experto responsable de dirifir y asesorar en el proceso de
+              elaboracion del vino y su almacenaje, analisis, conservación,
+              embotellados y comercialización. Estudia a si mismo el proceso del
+              cultivo de la vid, asi como los suelos aptos para determinados
+              cepajes y otros temas vinculados.
+            </div>
+          </div>
+        </div>
+      <form >
+        <div class="container-contacto">
+          <div class="titulocontacto">Contactenos</div>
+          <div class="direccioncontacto">Alvear 2701</div>
+          <div class="telefonocontacto">Telefono: 4256598</div>
+          <div class="faxcontacto">Fax: 4205632</div>
+          <div class="horariocontacto">Horario de atencion: 8:30 a 17h.</div>
+          <div class="emailcontacto">Email: contacto@vinos.com.ar</div>
+          <div class="campostitulo">*Campos obligatorios</div>
+          <div class="destinatario">
+            <label for="destinatariocampo" class="titulodestinatario"
+              >Destinatario:</label
+            >
+            <select name="destinatarios" class="ancho">
+              <option value="1">Sr.</option>
+              <option value="2">Sra.</option>
+            </select>
+          </div>
+          <div class="nombreapellido">
+            <label for="nombreapellidocampo" class="titulonombreapellido"
+              >Nombre y apellido:
+            </label>
+            <input type="text" autocomplete="off" class="ancho2" id= 'name' onchange="pintar(this.id)" required/>*
+          </div>
+          <div class="razonsocial">
+            <label for="razonsocialocampo" class="titulorazonsocial"
+              >Razon Social:
+            </label>
+            <input type="name" autocomplete="off" onchange="pintar(this.id)" id= 'razonsocial' style="text-transform:uppercase;" value="" onkeyup="javascript:this.value=this.value.toUpperCase();" class="ancho2" />
+          </div>
+          <div class="emaildestinatario">
+            <label for="emailcampo" class="tituloemail">Email: </label>
+            <input type="email" autocomplete="off" id= 'mail' onchange="pintar(this.id)" class="ancho2" required/>*
+            <span class="noValido"
+                    >La dirección de e-mail no es correcta o está vacio</span
+                  >
+                  <span class="valido">La dirección de e-mail es correcta</span>
+          </div>
+          <div class="telefonodestinatario">
+            <label for="nombreapellidocampo" class="titulotelefono"
+              >Teléfono:
+            </label>
+            <input type="tel" id='tel' autocomplete="off" onchange="pintar(this.id)" onkeypress='return event.charCode >= 48 && event.charCode <= 57' class="ancho2" pattern="[0-99999999999]{9,11}" maxlength="11" minlength="9" autocomplete="off" name="celular" title="Solo números - Entre 9 y 11 caracteres" required />*
+          </div>
+          <div class="celular">
+            <label for="celularcampo" class="titulocelular">Celular: </label>
+            <input type="tel" autocomplete="off" onchange="pintar(this.id)" id='celular' onkeypress='return event.charCode >= 48 && event.charCode <= 57' class="ancho2" pattern="[0-99999999999]{9,11}" class="ancho2" maxlength="11" minlength="9" />
+          </div>
+          <div class="viascontacto">
+            <label for="viascontactocampo" class="tituloviascontacto"
+              >Vias de contacto:
+            </label>
+            <select name="destinatarios" class="ancho">
+              <option value="1">Email</option>
+              <option value="2">Telefono</option>
+              <option value="2">Celular</option>
+            </select>
+          </div>
+          <div class="comentarios">
+            <label for="comentarioscampo" class="titulocomentarios"
+              >Comentarios:
+            </label>
+            <textarea
+            maxlength="300"
+              name="textarea"
+              rows="10"
+              cols="50"
+              class="ancho3"
+              placeholder="Dejanos tu comentario"
+            ></textarea>
+          </div>
+          <div class="botoncito">
+            <input type="submit" value="Enviar" class="boton" onclick="enviarDatos()"/>
+          </div>
+        </div>
+  </form>
+    </section>
+    <footer class="footer">
+      <nav class="menuabajo">
+        <ul class="opcioness">
+          <li>
+            <a href="">Testimonios</a>
+          </li>
+          <li>
+            <a href="">Soporte</a>
+          </li>
+          <li>
+            <a href="">Soluciones</a>
+          </li>
+          <li>
+            <a href="">Nosotros</a>
+          </li>
+          <li>
+            <a href="">Chat</a>
+          </li>
+          <li>
+            <a href="">Productos</a>
+          </li>
+          <li>
+            <a href="">Noticias</a>
+          </li>
+          <li>
+            <a href="contacto.html">Contacto</a>
+          </li>
+        </ul>
+      </nav>
+    </footer>
+    <script>
+      function enviarDatos() {
+        alert('Verifica los campos, si los completaste bien el formulario se limpiara y la operacion es un EXITO!')
+    }
+
+    function pintar(id) {
+      var elementValue = document.getElementById(id).value;
+
+      if (elementValue != '') {
+        document.getElementById(id).className='verde';
+      } else {
+        document.getElementById(id).className='vacio';
+      }
+    }
+    </script>
+  </body>
+</html>

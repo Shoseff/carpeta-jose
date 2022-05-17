@@ -1,0 +1,39 @@
+C:\Users\mec\source\repos\CALZADOS_COR\bin\Debug\CALZADOS_COR.exe.config
+C:\Users\mec\source\repos\CALZADOS_COR\bin\Debug\CALZADOS_COR.exe
+C:\Users\mec\source\repos\CALZADOS_COR\bin\Debug\CALZADOS_COR.pdb
+C:\Users\mec\source\repos\CALZADOS_COR\bin\Debug\CALZADOS_COR.xml
+C:\Users\mec\source\repos\CALZADOS_COR\obj\Debug\CALZADOS_COR.vbprojAssemblyReference.cache
+C:\Users\mec\source\repos\CALZADOS_COR\obj\Debug\CALZADOS_COR.FrmAyuda.resources
+C:\Users\mec\source\repos\CALZADOS_COR\obj\Debug\CALZADOS_COR.FrmPrincipal.resources
+C:\Users\mec\source\repos\CALZADOS_COR\obj\Debug\CALZADOS_COR.Resources.resources
+C:\Users\mec\source\repos\CALZADOS_COR\obj\Debug\CALZADOS_COR.vbproj.GenerateResource.cache
+C:\Users\mec\source\repos\CALZADOS_COR\obj\Debug\CALZADOS_COR.vbproj.CoreCompileInputs.cache
+C:\Users\mec\source\repos\CALZADOS_COR\obj\Debug\CALZADOS_COR.exe
+C:\Users\mec\source\repos\CALZADOS_COR\obj\Debug\CALZADOS_COR.xml
+C:\Users\mec\source\repos\CALZADOS_COR\obj\Debug\CALZADOS_COR.pdb
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\bin\Debug\CALZADOS_COR.exe.config
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\bin\Debug\CALZADOS_COR.exe
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\bin\Debug\CALZADOS_COR.pdb
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\bin\Debug\CALZADOS_COR.xml
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\obj\Debug\CALZADOS_COR.vbprojAssemblyReference.cache
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\obj\Debug\CALZADOS_COR.FrmAyuda.resources
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\obj\Debug\CALZADOS_COR.FrmPrincipal.resources
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\obj\Debug\CALZADOS_COR.Resources.resources
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\obj\Debug\CALZADOS_COR.vbproj.GenerateResource.cache
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\obj\Debug\CALZADOS_COR.vbproj.CoreCompileInputs.cache
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\obj\Debug\CALZADOS_COR.exe
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\obj\Debug\CALZADOS_COR.xml
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM(1IE)\CALZADOS_COR\obj\Debug\CALZADOS_COR.pdb
+C:\Users\joseb\Desktop\CALZADOS_COR\bin\Debug\CALZADOS_COR.exe.config
+C:\Users\joseb\Desktop\CALZADOS_COR\bin\Debug\CALZADOS_COR.exe
+C:\Users\joseb\Desktop\CALZADOS_COR\bin\Debug\CALZADOS_COR.pdb
+C:\Users\joseb\Desktop\CALZADOS_COR\bin\Debug\CALZADOS_COR.xml
+C:\Users\joseb\Desktop\CALZADOS_COR\obj\Debug\CALZADOS_COR.vbprojAssemblyReference.cache
+C:\Users\joseb\Desktop\CALZADOS_COR\obj\Debug\CALZADOS_COR.FrmAyuda.resources
+C:\Users\joseb\Desktop\CALZADOS_COR\obj\Debug\CALZADOS_COR.FrmPrincipal.resources
+C:\Users\joseb\Desktop\CALZADOS_COR\obj\Debug\CALZADOS_COR.Resources.resources
+C:\Users\joseb\Desktop\CALZADOS_COR\obj\Debug\CALZADOS_COR.vbproj.GenerateResource.cache
+C:\Users\joseb\Desktop\CALZADOS_COR\obj\Debug\CALZADOS_COR.vbproj.CoreCompileInputs.cache
+C:\Users\joseb\Desktop\CALZADOS_COR\obj\Debug\CALZADOS_COR.exe
+C:\Users\joseb\Desktop\CALZADOS_COR\obj\Debug\CALZADOS_COR.xml
+C:\Users\joseb\Desktop\CALZADOS_COR\obj\Debug\CALZADOS_COR.pdb

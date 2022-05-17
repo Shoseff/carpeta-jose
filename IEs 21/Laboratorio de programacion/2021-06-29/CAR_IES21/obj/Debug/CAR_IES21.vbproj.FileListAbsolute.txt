@@ -1,0 +1,36 @@
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM (2IE)\DOCENTE\CAR_IES21\bin\Debug\CAR_IES21.exe.config
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM (2IE)\DOCENTE\CAR_IES21\bin\Debug\CAR_IES21.exe
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM (2IE)\DOCENTE\CAR_IES21\bin\Debug\CAR_IES21.pdb
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM (2IE)\DOCENTE\CAR_IES21\bin\Debug\CAR_IES21.xml
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM (2IE)\DOCENTE\CAR_IES21\obj\Debug\CAR_IES21.vbprojAssemblyReference.cache
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM (2IE)\DOCENTE\CAR_IES21\obj\Debug\CAR_IES21.FrmGraficar.resources
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM (2IE)\DOCENTE\CAR_IES21\obj\Debug\CAR_IES21.Resources.resources
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM (2IE)\DOCENTE\CAR_IES21\obj\Debug\CAR_IES21.vbproj.GenerateResource.cache
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM (2IE)\DOCENTE\CAR_IES21\obj\Debug\CAR_IES21.vbproj.CoreCompileInputs.cache
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM (2IE)\DOCENTE\CAR_IES21\obj\Debug\CAR_IES21.exe
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM (2IE)\DOCENTE\CAR_IES21\obj\Debug\CAR_IES21.xml
+D:\MEC\IES\2021-1\PARCIALES (MODELOS)\LP3 TM (2IE)\DOCENTE\CAR_IES21\obj\Debug\CAR_IES21.pdb
+C:\Users\mec\source\repos\CAR_IES21\bin\Debug\CAR_IES21.exe.config
+C:\Users\mec\source\repos\CAR_IES21\bin\Debug\CAR_IES21.exe
+C:\Users\mec\source\repos\CAR_IES21\bin\Debug\CAR_IES21.pdb
+C:\Users\mec\source\repos\CAR_IES21\bin\Debug\CAR_IES21.xml
+C:\Users\mec\source\repos\CAR_IES21\obj\Debug\CAR_IES21.FrmGraficar.resources
+C:\Users\mec\source\repos\CAR_IES21\obj\Debug\CAR_IES21.Resources.resources
+C:\Users\mec\source\repos\CAR_IES21\obj\Debug\CAR_IES21.vbproj.GenerateResource.cache
+C:\Users\mec\source\repos\CAR_IES21\obj\Debug\CAR_IES21.vbproj.CoreCompileInputs.cache
+C:\Users\mec\source\repos\CAR_IES21\obj\Debug\CAR_IES21.exe
+C:\Users\mec\source\repos\CAR_IES21\obj\Debug\CAR_IES21.xml
+C:\Users\mec\source\repos\CAR_IES21\obj\Debug\CAR_IES21.pdb
+C:\Users\mec\source\repos\CAR_IES21\obj\Debug\CAR_IES21.vbprojAssemblyReference.cache
+C:\Users\joseb\Desktop\2021-06-29\CAR_IES21\bin\Debug\CAR_IES21.exe.config
+C:\Users\joseb\Desktop\2021-06-29\CAR_IES21\bin\Debug\CAR_IES21.exe
+C:\Users\joseb\Desktop\2021-06-29\CAR_IES21\bin\Debug\CAR_IES21.pdb
+C:\Users\joseb\Desktop\2021-06-29\CAR_IES21\bin\Debug\CAR_IES21.xml
+C:\Users\joseb\Desktop\2021-06-29\CAR_IES21\obj\Debug\CAR_IES21.vbprojAssemblyReference.cache
+C:\Users\joseb\Desktop\2021-06-29\CAR_IES21\obj\Debug\CAR_IES21.FrmGraficar.resources
+C:\Users\joseb\Desktop\2021-06-29\CAR_IES21\obj\Debug\CAR_IES21.Resources.resources
+C:\Users\joseb\Desktop\2021-06-29\CAR_IES21\obj\Debug\CAR_IES21.vbproj.GenerateResource.cache
+C:\Users\joseb\Desktop\2021-06-29\CAR_IES21\obj\Debug\CAR_IES21.vbproj.CoreCompileInputs.cache
+C:\Users\joseb\Desktop\2021-06-29\CAR_IES21\obj\Debug\CAR_IES21.exe
+C:\Users\joseb\Desktop\2021-06-29\CAR_IES21\obj\Debug\CAR_IES21.xml
+C:\Users\joseb\Desktop\2021-06-29\CAR_IES21\obj\Debug\CAR_IES21.pdb

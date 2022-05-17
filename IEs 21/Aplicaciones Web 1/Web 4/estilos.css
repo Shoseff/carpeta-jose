@@ -1,0 +1,55 @@
+header{
+    display: block;
+    background: lightblue;
+}
+
+section{
+    width: 75%;
+    float: left;
+    padding-bottom: 60px;
+    padding-top: 30px;
+    background-color: grey;
+    margin-bottom: 30px;
+}
+
+picture{
+    display: table;
+    box-shadow: 10px 10px 10px;
+}
+
+footer{
+    height: 40px;
+    background: lightblue;
+    text-align: center;
+    color: white;
+    margin-top: 350px;
+    clear: both;
+}
+
+aside{
+    float: right;
+    width: 20%;
+}
+
+li:hover{
+    background: yellow;
+    width: 30%;
+}
+
+figcaption{
+    text-align: center;
+    width: 14%;
+    margin-bottom: 30px;
+}
+
+figcaption:hover{
+    background: yellow;
+    width: 14%;
+    text-align: center;
+}
+
+p{
+    columns: 4;
+    text-align: justify;
+    column-rule: black solid 2px;
+}

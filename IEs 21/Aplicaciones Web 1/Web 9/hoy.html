@@ -1,0 +1,85 @@
+<html>
+    <head>
+        <title > Repaso </title>
+        <script language="javascript" type="text/javascript">
+            function pago()
+            {
+                if( F.optPago[0].checked)
+                  { 
+                      F.lista.disabled=true;
+                  }
+                else 
+                   { 
+                       F.lista.disabled=false;
+                   }
+            }
+            function mostrarPizza(i)
+            {
+                switch(i)
+                {
+                    case 1: F.foto.src="p1.jpg";                  
+                           break;
+                    case 2: F.foto.src="p2.jpg"; break;
+                    case 3: F.foto.src="p3.jpg"; break;
+                    default: break;
+                }
+            }
+            function calculo()
+            {
+                ca=parseInt(F.txtcant.value);
+                precio=F.optTipo.value;
+                T=ca*precio;
+                alert("Total del producto"+T);
+
+            }
+
+            function Nros(evt)
+            {
+                if(window.event) 
+                   t=evt.keyCode;  
+                else
+                   t=evt.whitch;
+                if (t>47 && t< 58)
+                 return true;
+                else
+                  return false;
+                
+            }
+
+        </script> 
+    </head> 
+    <body>
+      <form name="F">
+          <fieldset>
+              <legend> Tipo </legend>
+              <table>
+                  <tr>
+                     <td>
+                          <input type="radio" value="100" name="optTipo" checked  onclick="mostrarPizza(1)"> Pizza1 <br>
+                          <input type="radio" value="200" name="optTipo"  onclick="mostrarPizza(2)">   Pizza2  <br>
+                          <input type="radio" value="300" name="optTipo"  onclick="mostrarPizza(3)"> Pizza3  <br>
+                    </TD>
+                    <td>
+                <img src="p1.jpg" height="100" width="100" name="foto"></td>
+                </tr>
+              </table>
+              </fieldset>
+              <br>
+              Cantidad
+              <input type="text" value="" id="txtcant" onkeypress="return Nros(event)">
+              <br>
+              <fieldset>
+                <legend> Forma de pago  </legend>
+                <input type="radio"  name="optPago" checked  onclick="pago()"> contado<br>
+                <input type="radio"  name="optPago" onclick="pago()">  Tarjeta  <br>
+                <select name="lista" disabled>
+                    <option> A </option>
+                    <option>B </option>
+                    <option> C</option>
+                     <option> D</option>
+                </select>
+             </fieldset>
+             <input type="button" value="mostrar" onclick="calculo()">
+      </form>
+    </body>
+</html>

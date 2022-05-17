@@ -1,0 +1,36 @@
+C:\Users\Nicolas\Desktop\GRUPOS_IES21\bin\Debug\GRUPOS_IES21.exe.config
+C:\Users\Nicolas\Desktop\GRUPOS_IES21\bin\Debug\GRUPOS_IES21.exe
+C:\Users\Nicolas\Desktop\GRUPOS_IES21\bin\Debug\GRUPOS_IES21.pdb
+C:\Users\Nicolas\Desktop\GRUPOS_IES21\bin\Debug\GRUPOS_IES21.xml
+C:\Users\Nicolas\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.vbprojAssemblyReference.cache
+C:\Users\Nicolas\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.Form1.resources
+C:\Users\Nicolas\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.Resources.resources
+C:\Users\Nicolas\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.vbproj.GenerateResource.cache
+C:\Users\Nicolas\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.vbproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.exe
+C:\Users\Nicolas\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.xml
+C:\Users\Nicolas\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.pdb
+C:\Users\joseb\Desktop\GRUPOS_IES21\bin\Debug\GRUPOS_IES21.exe.config
+C:\Users\joseb\Desktop\GRUPOS_IES21\bin\Debug\GRUPOS_IES21.exe
+C:\Users\joseb\Desktop\GRUPOS_IES21\bin\Debug\GRUPOS_IES21.pdb
+C:\Users\joseb\Desktop\GRUPOS_IES21\bin\Debug\GRUPOS_IES21.xml
+C:\Users\joseb\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.vbprojAssemblyReference.cache
+C:\Users\joseb\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.Form1.resources
+C:\Users\joseb\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.Resources.resources
+C:\Users\joseb\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.vbproj.GenerateResource.cache
+C:\Users\joseb\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.vbproj.CoreCompileInputs.cache
+C:\Users\joseb\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.exe
+C:\Users\joseb\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.xml
+C:\Users\joseb\Desktop\GRUPOS_IES21\obj\Debug\GRUPOS_IES21.pdb
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\tp\Grupos\bin\Debug\GRUPOS_IES21.exe.config
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\tp\Grupos\bin\Debug\GRUPOS_IES21.exe
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\tp\Grupos\bin\Debug\GRUPOS_IES21.pdb
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\tp\Grupos\bin\Debug\GRUPOS_IES21.xml
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\tp\Grupos\obj\Debug\GRUPOS_IES21.vbprojAssemblyReference.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\tp\Grupos\obj\Debug\GRUPOS_IES21.Form1.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\tp\Grupos\obj\Debug\GRUPOS_IES21.Resources.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\tp\Grupos\obj\Debug\GRUPOS_IES21.vbproj.GenerateResource.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\tp\Grupos\obj\Debug\GRUPOS_IES21.vbproj.CoreCompileInputs.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\tp\Grupos\obj\Debug\GRUPOS_IES21.exe
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\tp\Grupos\obj\Debug\GRUPOS_IES21.xml
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\tp\Grupos\obj\Debug\GRUPOS_IES21.pdb

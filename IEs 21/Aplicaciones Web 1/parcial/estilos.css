@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+body {
+    margin: 0;
+    display: flex;
+    flex-flow: column;
+    background-color: rgba(131, 43, 43, 0.192);
+    font-family: 'Poppins', sans-serif;
+    align-items: center;
+}
+
+.bordes {
+    width: 500px;
+}
+
+.formulario{
+    margin-left: 50%;
+}
+
+.boton{
+    border: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 100000px;
+    cursor: pointer;
+    transition: 1s all;
+    margin-left: 50%;
+    margin-top: 20px;
+}
+
+.boton:hover{
+    color: rgb(63, 3, 3);
+    transform: scale(1.1, 1.1);
+    text-decoration: underline white;
+}
+
+.titulo {
+    margin-left: 50px;
+}

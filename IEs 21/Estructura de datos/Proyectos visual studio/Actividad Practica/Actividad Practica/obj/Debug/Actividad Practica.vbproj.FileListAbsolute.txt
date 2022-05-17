@@ -1,0 +1,12 @@
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Actividad Practica\Actividad Practica\bin\Debug\Actividad Practica.exe.config
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Actividad Practica\Actividad Practica\bin\Debug\Actividad Practica.exe
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Actividad Practica\Actividad Practica\bin\Debug\Actividad Practica.pdb
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Actividad Practica\Actividad Practica\bin\Debug\Actividad Practica.xml
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Actividad Practica\Actividad Practica\obj\Debug\Actividad Practica.vbprojAssemblyReference.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Actividad Practica\Actividad Practica\obj\Debug\Actividad_Practica.Sistema.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Actividad Practica\Actividad Practica\obj\Debug\Actividad_Practica.Resources.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Actividad Practica\Actividad Practica\obj\Debug\Actividad Practica.vbproj.GenerateResource.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Actividad Practica\Actividad Practica\obj\Debug\Actividad Practica.vbproj.CoreCompileInputs.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Actividad Practica\Actividad Practica\obj\Debug\Actividad Practica.exe
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Actividad Practica\Actividad Practica\obj\Debug\Actividad Practica.xml
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Actividad Practica\Actividad Practica\obj\Debug\Actividad Practica.pdb

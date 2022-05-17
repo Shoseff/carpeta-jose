@@ -1,0 +1,36 @@
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.exe.config
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.exe
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.pdb
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.xml
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.vbprojAssemblyReference.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmDatosDelDesarrollador.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Resources.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.vbproj.GenerateResource.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.vbproj.CoreCompileInputs.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.exe
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.xml
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.pdb
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmCola.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmEstructuraDeDatos.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmPila.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmListaSimple.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmListaDoblementeEnlazada.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmArbol.resources
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.exe.config
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.exe
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.pdb
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\bin\Debug\Estructura de datos.xml
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.vbproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmArbol.resources
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmCola.resources
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmDatosDelDesarrollador.resources
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmEstructuraDeDatos.resources
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmListaDoblementeEnlazada.resources
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmPila.resources
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.frmListaSimple.resources
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura_de_datos.Resources.resources
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.vbproj.GenerateResource.cache
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.vbproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.exe
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.xml
+C:\Users\PC\Desktop\Jose\IEs 21\Estructura de datos\Proyectos visual studio\Estructura de datos\Estructura de datos\obj\Debug\Estructura de datos.pdb

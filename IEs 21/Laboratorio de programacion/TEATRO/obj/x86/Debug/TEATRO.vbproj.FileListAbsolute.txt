@@ -1,0 +1,53 @@
+C:\Users\mec\documents\visual studio 2010\Projects\TEATRO\bin\Debug\TEATRO.exe
+C:\Users\mec\documents\visual studio 2010\Projects\TEATRO\bin\Debug\TEATRO.pdb
+C:\Users\mec\documents\visual studio 2010\Projects\TEATRO\bin\Debug\TEATRO.xml
+C:\Users\mec\documents\visual studio 2010\Projects\TEATRO\obj\x86\Debug\TEATRO.FrmReservas.resources
+C:\Users\mec\documents\visual studio 2010\Projects\TEATRO\obj\x86\Debug\TEATRO.Resources.resources
+C:\Users\mec\documents\visual studio 2010\Projects\TEATRO\obj\x86\Debug\TEATRO.vbproj.GenerateResource.Cache
+C:\Users\mec\documents\visual studio 2010\Projects\TEATRO\obj\x86\Debug\TEATRO.exe
+C:\Users\mec\documents\visual studio 2010\Projects\TEATRO\obj\x86\Debug\TEATRO.xml
+C:\Users\mec\documents\visual studio 2010\Projects\TEATRO\obj\x86\Debug\TEATRO.pdb
+D:\TEMPO\XXX\PARCIALES (MODELOS)\LP3 (PARCIAL 1)\TEATRO\obj\x86\Debug\TEATRO.exe
+D:\TEMPO\XXX\PARCIALES (MODELOS)\LP3 (PARCIAL 1)\TEATRO\obj\x86\Debug\TEATRO.xml
+D:\TEMPO\XXX\PARCIALES (MODELOS)\LP3 (PARCIAL 1)\TEATRO\obj\x86\Debug\TEATRO.pdb
+D:\TEMPO\XXX\PARCIALES (MODELOS)\LP3 (PARCIAL 1)\TEATRO\bin\Debug\TEATRO.exe.config
+D:\TEMPO\XXX\PARCIALES (MODELOS)\LP3 (PARCIAL 1)\TEATRO\bin\Debug\TEATRO.exe
+D:\TEMPO\XXX\PARCIALES (MODELOS)\LP3 (PARCIAL 1)\TEATRO\bin\Debug\TEATRO.pdb
+D:\TEMPO\XXX\PARCIALES (MODELOS)\LP3 (PARCIAL 1)\TEATRO\bin\Debug\TEATRO.xml
+D:\TEMPO\XXX\PARCIALES (MODELOS)\LP3 (PARCIAL 1)\TEATRO\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TEMPO\XXX\PARCIALES (MODELOS)\LP3 (PARCIAL 1)\TEATRO\obj\x86\Debug\TEATRO.FrmReservas.resources
+D:\TEMPO\XXX\PARCIALES (MODELOS)\LP3 (PARCIAL 1)\TEATRO\obj\x86\Debug\TEATRO.Resources.resources
+D:\TEMPO\XXX\PARCIALES (MODELOS)\LP3 (PARCIAL 1)\TEATRO\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TEMPO\XXX\PARCIALES (MODELOS)\LP3 (PARCIAL 1)\TEATRO\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Alumno\Desktop\TEATRO\bin\Debug\TEATRO.exe.config
+D:\Alumno\Desktop\TEATRO\bin\Debug\TEATRO.exe
+D:\Alumno\Desktop\TEATRO\bin\Debug\TEATRO.pdb
+D:\Alumno\Desktop\TEATRO\bin\Debug\TEATRO.xml
+D:\Alumno\Desktop\TEATRO\obj\x86\Debug\TEATRO.FrmReservas.resources
+D:\Alumno\Desktop\TEATRO\obj\x86\Debug\TEATRO.Resources.resources
+D:\Alumno\Desktop\TEATRO\obj\x86\Debug\TEATRO.vbproj.GenerateResource.Cache
+D:\Alumno\Desktop\TEATRO\obj\x86\Debug\TEATRO.exe
+D:\Alumno\Desktop\TEATRO\obj\x86\Debug\TEATRO.xml
+D:\Alumno\Desktop\TEATRO\obj\x86\Debug\TEATRO.pdb
+D:\Pen Drive\TEATRO\bin\Debug\TEATRO.exe.config
+D:\Pen Drive\TEATRO\obj\x86\Debug\TEATRO.exe
+D:\Pen Drive\TEATRO\obj\x86\Debug\TEATRO.xml
+D:\Pen Drive\TEATRO\obj\x86\Debug\TEATRO.pdb
+D:\Pen Drive\TEATRO\bin\Debug\TEATRO.exe
+D:\Pen Drive\TEATRO\bin\Debug\TEATRO.pdb
+D:\Pen Drive\TEATRO\bin\Debug\TEATRO.xml
+D:\Pen Drive\TEATRO\obj\x86\Debug\TEATRO.FrmReservas.resources
+D:\Pen Drive\TEATRO\obj\x86\Debug\TEATRO.Resources.resources
+D:\Pen Drive\TEATRO\obj\x86\Debug\TEATRO.vbproj.GenerateResource.Cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\TEATRO\bin\Debug\TEATRO.exe.config
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\TEATRO\bin\Debug\TEATRO.exe
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\TEATRO\bin\Debug\TEATRO.pdb
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\TEATRO\bin\Debug\TEATRO.xml
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\TEATRO\obj\x86\Debug\TEATRO.vbprojAssemblyReference.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\TEATRO\obj\x86\Debug\TEATRO.FrmReservas.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\TEATRO\obj\x86\Debug\TEATRO.Resources.resources
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\TEATRO\obj\x86\Debug\TEATRO.vbproj.GenerateResource.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\TEATRO\obj\x86\Debug\TEATRO.vbproj.CoreCompileInputs.cache
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\TEATRO\obj\x86\Debug\TEATRO.exe
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\TEATRO\obj\x86\Debug\TEATRO.xml
+C:\Users\joseb\Desktop\Jose\IEs 21\Laboratorio de programacion\TEATRO\obj\x86\Debug\TEATRO.pdb

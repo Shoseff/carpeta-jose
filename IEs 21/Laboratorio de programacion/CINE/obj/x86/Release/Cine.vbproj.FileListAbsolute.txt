@@ -1,0 +1,10 @@
+D:\MIGUEL CARRIZO\HOY\CINE\bin\Release\Cine.exe.config
+D:\MIGUEL CARRIZO\HOY\CINE\bin\Release\Cine.exe
+D:\MIGUEL CARRIZO\HOY\CINE\bin\Release\Cine.pdb
+D:\MIGUEL CARRIZO\HOY\CINE\bin\Release\Cine.xml
+D:\MIGUEL CARRIZO\HOY\CINE\obj\x86\Release\Cine.FrmCine.resources
+D:\MIGUEL CARRIZO\HOY\CINE\obj\x86\Release\Cine.Resources.resources
+D:\MIGUEL CARRIZO\HOY\CINE\obj\x86\Release\Cine.vbproj.GenerateResource.Cache
+D:\MIGUEL CARRIZO\HOY\CINE\obj\x86\Release\Cine.exe
+D:\MIGUEL CARRIZO\HOY\CINE\obj\x86\Release\Cine.xml
+D:\MIGUEL CARRIZO\HOY\CINE\obj\x86\Release\Cine.pdb

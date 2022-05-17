@@ -1,0 +1,247 @@
+
+<html>
+  <head>
+    <title>Pagina Principal</title>
+    <link rel= "stylesheet" type="text/css" href=css/estilos.css>
+  </head>
+  <body>
+    <div class="conteiner">
+      <header class="superior">
+        <div class="encabezado">
+          <img class="img1" src="./imagenes/header.jpg" alt="" />
+        </div>
+        <nav class="menu">
+          <ul class="opciones">
+            <li>
+              <a href="">Testimonios</a>
+            </li>
+            <li>
+              <a href="">Soporte</a>
+            </li>
+            <li>
+              <a href="">Soluciones</a>
+            </li>
+            <li>
+              <a href="">Nosotros</a>
+            </li>
+            <li>
+              <a href="">Bodegas</a>
+            </li>
+            <li>
+              <a href="">Productos</a>
+            </li>
+            <li>
+              <a href="">Eventos</a>
+            </li>
+            <li>
+              <a href="">Chat</a>
+            </li>
+            <li>
+              <a href="">Blogs</a>
+            </li>
+            <li>
+              <a href="">Noticias</a>
+            </li>
+            <li>
+              <a href="">Servicios</a>
+            </li>
+          </ul>
+        </nav>
+      </header>
+    </div>
+    <section class="container-contenido">
+      <div class="borde-contenido">
+        <div class="productos">
+          <div class="icon1">
+            <img class="icono1" src="./imagenes/project_icon.gif" alt="" />
+            Productos
+          </div>
+          <div class="texto1">Las mejores variedades</div>
+          <div class="imagen1">
+            <img class="imag1" src="./imagenes/imagen5.jpg" alt="" />
+          </div>
+          <div class="texto2">Cata de vinos</div>
+          <div class="imagen2">
+            <img class="img2" src="./imagenes/imagesCAR2P5TK.jpg" alt="" />
+          </div>
+          <div class="texto3">Las mejores bodegas</div>
+          <div class="imagen3">
+            <img class="img3" src="./imagenes/images9.jpg" alt="" />
+          </div>
+          <div class="titulo-login">
+            <div class="h3titulo">Usuarios</div>
+          </div>
+          <form method="POST">
+          <div class="fondologin">
+            <div class="nombre">
+              <div class="titulonombre">
+                <label for="name">Nombre:</label>
+              </div>
+              <div class="camponombre">
+                <input
+                  type="text"
+                  class="campo"
+                  id="usuario"
+                  onkeypress="return (event.charCode != 32)"
+                  min="1"
+                  oncopy="return false"
+                  onpaste="return false"
+                />
+              </div>
+            </div>
+
+              <div class="e-mail">
+                <div class="tituloemail">
+                  <label for="email">Email:</label>
+                </div>
+                <div class="campoemail">
+                  <input type="email" class="campo" id="email" required />
+                  <span class="noValido"
+                    >La dirección de e-mail no es correcta o está vacio</span
+                  >
+                  <span class="valido">La dirección de e-mail es correcta</span>
+                </div>
+              </div>
+              <div class="logear">
+                <div class="sub">
+                  <a class="link" onclick="validaciones('','','subscribe');return false;" href="#" >Subscribite ahora</a>
+                </div>
+                <input
+                  type="button"
+                  value="Login"
+                  class="boton"
+                  onclick="validaciones('','','subscribe')"
+                  required
+                />
+              </div>
+            </form>
+          </div>
+        </div>
+       <script>
+          function validaciones(email, usuario,subscribe) {
+            var emailValue = document.getElementById("email").value;
+            var usuarioValue = document.getElementById("usuario").value;
+            var expReg = /^[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$/;
+            var esValido = expReg.test(email);
+            var esValidoSubscribe = expReg.test(emailValue);
+
+            if(subscribe=="subscribe" && esValidoSubscribe == false) {
+              return alert("El correo electronico es invalido o esta vacio");
+            } else if (subscribe=="subscribe" && usuarioValue == "") {
+              return alert("El usuario esta vacio");
+            } else {
+              return alert("LA OPERACION FUE EXITOSA!")
+            }
+          }
+        </script>
+        <div class="eventos">
+          <div class="cuadro-eventos">
+            <div class="icon2">
+              <img class="icono2" src="./imagenes/event_icon.gif" alt="" />
+              Eventos
+            </div>
+            <div class="fecha-eventos">MAYO 2011</div>
+            <div class="texto-eventos">
+              Se celebra en la Provincia de Mendoza, el primer fin de semana de
+              marzo (casi sin interrupciones desde 1936) y se trata del homenaje
+              que el hombre le dedica a su industria principal: la vitivinicola.
+            </div>
+          </div>
+          <div class="cuadro-glosario">
+            <div class="icon3">
+              <img class="icono3" src="./imagenes/service.gif" alt="" />
+              Glosario
+            </div>
+
+            <div class="texto-glosario">
+              Enólogo:<br />
+              Experto responsable de dirigir y asesorar en el proceso de
+              elaboracion del vino y su almacenaje, analisis, conservación,
+              embotellados y comercialización. Estudia a si mismo el proceso del
+              cultivo de la vid, asi como los suelos aptos para determinados
+              cepajes y otros temas vinculados.
+            </div>
+          </div>
+        </div>
+        <div class="mejores">
+          <div class="titulo-mejores">Los Mejores</div>
+          <hr class="punteado" />
+          <div class="subtitulo-mejores">
+            La region vitivinicola en Argentina se desarrolla entre los 22° y
+            42° de latitud sur
+          </div>
+          <div class="texto-mejores">
+            <b>Santa Florentina </b> propone el espumante ideal para acompañar
+            el brindis de estas fiestas: <b>el BRUT de Torrontes</b>, nacido en
+            las tierras riojanas de los Valles del Famantina. Este espumante es
+            un <b>varietal 100% torrontés riojano,</b> de sabor fresco y óptima
+            acidez que se exalta con el frizante de las burbujas, y permite que
+            los aromas frutales se realcen en la boca.
+            <b> BRUT de Torrontés</b> presenta un intenso sabor, con notas a
+            azahares, frutas citricas y anana, que exalta los sentidos por su
+            frescura y equilibrada acidez.
+          </div>
+          <div class="texto2-mejores">
+            Comprar vino significa saber elegir el vino de acuerdo a los gustos
+            de cada consumidor
+          </div>
+          <div class="texto3-mejores">
+            Según el Observatorio Vitivinicola Argentino, por el Malbec se pagó
+            un precio promedio ponderado de $422 el quintal, por el Chardonnay,
+            $233 el quintal y por la variedad Aspirant Bouchet, $570. Claras
+            diferencias de precio por zona.
+          </div>
+          <div class="tiposvino">
+            <div class="titulovino">Tipos de vinos</div>
+            <pre class="tipos">
+  ■ Cepas Blancas
+  ■ Blends
+  ■ Cepas Tintas
+              </pre
+            >
+          </div>
+          <div class="nuestrahistoria">
+            <div class="titulohistoria">Nuestra Historia</div>
+            <div class="textohistoria">
+              La historia del vino en nuestro pais se remonta a la temprana
+              espoca colonial, en 1566 el Sacerdote Juan Celdron llevo a
+              Santiago del Estero unas estacas de vid. Posteriomente el galo
+              Aime Pouget
+              <a class="pazul" href="">mas... </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer class="footer">
+      <nav class="menuabajo">
+        <ul class="opcioness">
+          <li>
+            <a href="">Testimonios</a>
+          </li>
+          <li>
+            <a href="">Soporte</a>
+          </li>
+          <li>
+            <a href="">Soluciones</a>
+          </li>
+          <li>
+            <a href="">Nosotros</a>
+          </li>
+          <li>
+            <a href="">Chat</a>
+          </li>
+          <li>
+            <a href="">Productos</a>
+          </li>
+          <li>
+            <a href="">Noticias</a>
+          </li>
+          <li>
+            <a href="contacto.html">Contacto</a>
+          </li>
+        </ul>
+      </nav>
+    </footer>
+  </body>
+</html>
